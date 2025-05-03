@@ -17,3 +17,10 @@
     "@types/node": "latest"
   }
 }
+"livekit-client": "^1.0.0",
+"dependencies": {
+  "next": "latest",
+  "react": "latest",
+  "react-dom": "latest",
+  "livekit-client": "^1.0.0"
+}
