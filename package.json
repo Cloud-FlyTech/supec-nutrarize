@@ -9,18 +9,12 @@
   "dependencies": {
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "livekit-client": "^1.0.0"
   },
   "devDependencies": {
     "typescript": "latest",
     "@types/react": "latest",
     "@types/node": "latest"
   }
-}
-"livekit-client": "^1.0.0",
-"dependencies": {
-  "next": "latest",
-  "react": "latest",
-  "react-dom": "latest",
-  "livekit-client": "^1.0.0"
 }
