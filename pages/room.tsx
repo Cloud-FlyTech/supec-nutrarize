@@ -33,3 +33,5 @@ export default function RoomPage() {
     </div>
   );
 }
+const url = "wss://supec-nutrarize-0uq1z17k.livekit.cloud";
+const token = "yJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."; // 発行したトークンをここに貼る
