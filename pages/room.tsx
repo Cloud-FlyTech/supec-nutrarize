@@ -50,3 +50,5 @@ export default function RoomPage() {
     </div>
   );
 }
+const token = "上の文字列";
+const url = "wss://supec-nutrarize-0uq1z17k.livekit.cloud";
